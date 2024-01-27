@@ -9,6 +9,7 @@ const Child = () => {
   return (
     <div className="component">
       <h3>式と文</h3>
+      {1}
     </div>
   );
 };
